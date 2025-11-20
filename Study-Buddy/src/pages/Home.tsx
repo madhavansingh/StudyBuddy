@@ -117,7 +117,10 @@ const Home = () => {
         >
           <div className="flex items-center justify-center mb-6">
             <div className="flex h-20 w-20 items-center justify-center rounded-2xl bg-primary text-primary-foreground mr-4">
-              <img src='https://i.pinimg.com/736x/bc/28/55/bc2855b4af523e649c17a50c81f020e5.jpg'/>
+              <img 
+                src='https://i.pinimg.com/736x/bc/28/55/bc2855b4af523e649c17a50c81f020e5.jpg'
+                alt="Study Buddy Logo"
+              />
             </div>
             <span className="p-1 text-4xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
               Study Buddy
