@@ -1,4 +1,4 @@
-# Study Buddy – Master JEE with AI
+# Study Buddy - Master JEE with AI
 
 🚀 **Your bilingual AI tutor for JEE preparation (Physics, Chemistry & Mathematics).**  
 Learn smarter with AI-powered explanations, mock tests, and real-time study groups.
